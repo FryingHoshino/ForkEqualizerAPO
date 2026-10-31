@@ -18,3 +18,8 @@ build-*/
 *.pdb
 *.iobj
 *.log
+
+*.log
+*.zip
+*.bak
+*.orig
